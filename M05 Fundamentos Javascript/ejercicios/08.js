@@ -1,4 +1,4 @@
-let num = 5.23
+let num = 1000
 function esNumeroEntero(numero) {
   // La función recibe un argumento "numero".
   // Verifica si este es un número entero o no.

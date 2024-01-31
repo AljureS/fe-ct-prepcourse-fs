@@ -1,4 +1,4 @@
-let edadUsuario = 20
+let edadUsuario = 21
 
 function esMayorDeEdad(fechaNacimiento) {
   // La función recibe un argumento "fechaNacimiento" correspondiente a la fecha
